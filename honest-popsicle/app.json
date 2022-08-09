@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "honest-popsicle",
+    "slug": "snack-4a2a4b19-186d-4614-bed9-7af93455dc68",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.joao_victor22.snack4a2a4b19186d4614bed97af93455dc68"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
